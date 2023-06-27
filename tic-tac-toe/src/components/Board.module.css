@@ -1,0 +1,24 @@
+.container{
+    margin: 2px auto
+}
+
+.row{
+    width: 150px;
+    height: 50px;
+    margin: auto;
+}
+
+.state{
+    text-align: center;
+}
+
+.winner{
+    color: rgb(22, 151, 22);
+    margin-top: 2px;
+    font-weight: 500;
+
+}
+
+h2{
+    text-align: center;
+}
